@@ -3,7 +3,7 @@
 ## Outline
 
 * Why is this important?
-  + The Internet is only 25 yrs old
+  + The Internet is less than 30 years old
   + Our industry is just an infant compared with other industries
   + Lots of churn, and we're the source of innovation (thinking & tech)
   + Our #1 skill is to be able to learn new tech and be productive quickly
