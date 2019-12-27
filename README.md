@@ -11,8 +11,8 @@ You will need Node.js and NPM (or Yarn) to install the dependencies and run the 
 
 To view this presentation on your computer, after cloning this repository:
 
-* `yarn` or `npm install`
-* `yarn start` or `npm start`
+* `npm install`
+* `npm start`
 * Go to [http://localhost:3000](http://localhost:3000)
 
 If you use Chrome, you can use `alt-p` to enter presentation mode and read the slide notes.
